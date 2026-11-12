@@ -1,0 +1,5 @@
+cdd audit 25/120, failures 0, worst 0.9999930313
+cdd audit 50/120, failures 0, worst 0.9999958871
+cdd audit 75/120, failures 0, worst 0.9999997630
+cdd audit 100/120, failures 0, worst 0.9999997630
+{"sampled": 120, "failures": 0, "worst_diameter_bound": 0.9999997630062195}

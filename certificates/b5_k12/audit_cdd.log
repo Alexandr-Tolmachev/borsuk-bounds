@@ -1,0 +1,15 @@
+cdd audit 10/120, failures 0, worst 0.9999873920
+cdd audit 20/120, failures 0, worst 0.9999873920
+cdd audit 30/120, failures 0, worst 0.9999966197
+cdd audit 40/120, failures 0, worst 0.9999966197
+cdd audit 50/120, failures 0, worst 0.9999966197
+cdd audit 60/120, failures 0, worst 0.9999997761
+cdd audit 70/120, failures 0, worst 0.9999997761
+cdd audit 80/120, failures 0, worst 0.9999997761
+resuming: 87 leaves already audited, 33 to go
+cdd audit 90/120, failures 0, worst 0.9999997914
+cdd audit 100/120, failures 0, worst 0.9999997914
+cdd audit 110/120, failures 0, worst 0.9999997914
+resuming: 119 leaves already audited, 1 to go
+cdd audit 120/120, failures 0, worst 0.9999997914
+{"sampled": 120, "failures": 0, "worst_diameter_bound": 0.9999997914098223}

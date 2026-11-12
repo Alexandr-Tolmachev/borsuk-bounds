@@ -1,0 +1,15 @@
+R^5, 12 parts: 6976 leaves, 0 unresolved, covered volume 1.000000000, checking 6976
+checked 500/6976, worst 1.000000 [851s]
+checked 1000/6976, worst 1.000000 [1915s]
+checked 1500/6976, worst 1.000000 [2835s]
+checked 2000/6976, worst 1.000000 [3977s]
+checked 2500/6976, worst 1.000000 [5739s]
+checked 3000/6976, worst 1.000000 [7793s]
+checked 3500/6976, worst 1.000000 [9917s]
+checked 4000/6976, worst 1.000000 [13242s]
+checked 4500/6976, worst 1.000000 [17184s]
+checked 5000/6976, worst 1.000000 [21677s]
+checked 5500/6976, worst 1.000000 [26773s]
+checked 6000/6976, worst 1.000000 [31391s]
+checked 6500/6976, worst 1.000000 [36541s]
+{"checked": 6976, "failures": 0, "worst_diameter_bound": 0.9999999483201589, "covered_volume": "1", "complete_certificate": true}
