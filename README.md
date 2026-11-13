@@ -3,7 +3,7 @@
 Certificates and verification programs for the article
 
 > **Novel upper bounds for Borsuk numbers from contact points and spherical partitions**,
-> arXiv preprint [arXiv:XXXX.XXXXX](https://arxiv.org/abs/XXXX.XXXXX).
+> arXiv preprint [arXiv:2611.16775](https://arxiv.org/abs/2611.16775).
 
 The Borsuk number $b(n)$ is the least number of subsets of strictly smaller diameter needed to partition every bounded set of positive diameter in $\mathbb{R}^n$. The article proves the following upper bounds.
 
